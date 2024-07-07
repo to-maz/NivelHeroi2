@@ -1,0 +1,14 @@
+C:\proj\NivelHeroi\bin\Debug\net8.0\NivelHeroi.exe
+C:\proj\NivelHeroi\bin\Debug\net8.0\NivelHeroi.deps.json
+C:\proj\NivelHeroi\bin\Debug\net8.0\NivelHeroi.runtimeconfig.json
+C:\proj\NivelHeroi\bin\Debug\net8.0\NivelHeroi.dll
+C:\proj\NivelHeroi\bin\Debug\net8.0\NivelHeroi.pdb
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.GeneratedMSBuildEditorConfig.editorconfig
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.AssemblyInfoInputs.cache
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.AssemblyInfo.cs
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.csproj.CoreCompileInputs.cache
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.dll
+C:\proj\NivelHeroi\obj\Debug\net8.0\refint\NivelHeroi.dll
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.pdb
+C:\proj\NivelHeroi\obj\Debug\net8.0\NivelHeroi.genruntimeconfig.cache
+C:\proj\NivelHeroi\obj\Debug\net8.0\ref\NivelHeroi.dll
